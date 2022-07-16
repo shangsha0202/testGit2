@@ -16,6 +16,7 @@ public class HelloGit {
 		System.out.println("更新5...");
 		System.out.println("在线更新...");
 		System.out.println("在线更新2...");
+		System.out.println("先pull成git上最新的src，再修改本地src，然后再push，其中reset的时候选har那个...");
 		
 	}
 
